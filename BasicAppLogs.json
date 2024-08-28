@@ -1,0 +1,2402 @@
+{
+  "architecture" : "",
+  "type" : "main",
+  "endTimestamp" : 1724765562.0137072,
+  "subSteps" : [
+    {
+      "startDate" : "2024-08-27T13:32:39.689000Z",
+      "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_1",
+      "endDate" : "2024-08-27T13:32:39.713000Z",
+      "warningCount" : 0,
+      "architecture" : "",
+      "notes" : [
+
+      ],
+      "title" : "Prepare packages",
+      "machineName" : "COLTMV20KF9J",
+      "detailStepType" : "none",
+      "documentURL" : "",
+      "schema" : "BasicApp",
+      "subSteps" : [
+
+      ],
+      "endTimestamp" : 1724765559.7134662,
+      "signature" : "eyJibHVlcHJpbnRQcm92aWRlcl9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYnJlbm5vLm1vdXJhXC9Eb3dubG9hZHNcL1hDTWV0cmljcy1tYWluXC9FeGFtcGxlc1wvQmFzaWNBcHBcL0Jhc2ljQXBwLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50UHJvdmlkZXIiOnt9fX0=",
+      "warnings" : [
+
+      ],
+      "duration" : 0.02433300018310547,
+      "errorCount" : 0,
+      "errors" : [
+
+      ],
+      "compilationEndTimestamp" : 1724765559.6891332,
+      "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+      "type" : "target",
+      "domain" : "com.apple.dt.IDE.LogSection",
+      "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_2",
+      "buildStatus" : "succeeded",
+      "fetchedFromCache" : false,
+      "startTimestamp" : 1724765559.6891332,
+      "compilationDuration" : 0
+    },
+    {
+      "errorCount" : 0,
+      "startTimestamp" : 1724765559.7254171,
+      "compilationEndTimestamp" : 1724765559.7254171,
+      "endTimestamp" : 1724765561.966912,
+      "signature" : "eyJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCIsInR5cGUiOnsiYnVpbGRTeXN0ZW1UYXNrIjp7fX19",
+      "endDate" : "2024-08-27T13:32:41.967000Z",
+      "warnings" : [
+
+      ],
+      "startDate" : "2024-08-27T13:32:39.725000Z",
+      "buildStatus" : "succeeded",
+      "subSteps" : [
+        {
+          "title" : "Compute target dependency graph",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_4",
+          "buildStatus" : "succeeded",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "endTimestamp" : 1724765559.7499762,
+          "errorCount" : 0,
+          "startTimestamp" : 1724765559.740849,
+          "signature" : "ComputeTargetDependencyGraph",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "warnings" : [
+
+          ],
+          "endDate" : "2024-08-27T13:32:39.750000Z",
+          "detailStepType" : "other",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_3",
+          "type" : "detail",
+          "subSteps" : [
+
+          ],
+          "duration" : 0.009127020835876465,
+          "warningCount" : 0,
+          "compilationDuration" : 0.009127020835876465,
+          "architecture" : "",
+          "documentURL" : "",
+          "startDate" : "2024-08-27T13:32:39.741000Z",
+          "notes" : [
+            {
+              "severity" : 0,
+              "startingLineNumber" : 0,
+              "characterRangeEnd" : 0,
+              "endingLineNumber" : 0,
+              "startingColumnNumber" : 0,
+              "type" : "note",
+              "title" : "Building targets in dependency order",
+              "endingColumnNumber" : 0,
+              "characterRangeStart" : 0,
+              "detail" : "note: Building targets in dependency order\rnote: Target dependency graph (1 target)\r    Target 'BasicApp' in project 'BasicApp' (no dependencies)",
+              "documentURL" : ""
+            },
+            {
+              "endingColumnNumber" : 0,
+              "detail" : "note: Building targets in dependency order\rnote: Target dependency graph (1 target)\r    Target 'BasicApp' in project 'BasicApp' (no dependencies)",
+              "startingLineNumber" : 0,
+              "title" : "Target dependency graph (1 target)",
+              "type" : "note",
+              "characterRangeStart" : 0,
+              "characterRangeEnd" : 0,
+              "documentURL" : "",
+              "endingLineNumber" : 0,
+              "startingColumnNumber" : 0,
+              "severity" : 0
+            }
+          ],
+          "errors" : [
+
+          ],
+          "fetchedFromCache" : false,
+          "machineName" : "COLTMV20KF9J",
+          "compilationEndTimestamp" : 1724765559.7499762,
+          "schema" : "BasicApp"
+        },
+        {
+          "duration" : 0.0012360811233520508,
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_5",
+          "type" : "detail",
+          "compilationEndTimestamp" : 1724765559.751492,
+          "machineName" : "COLTMV20KF9J",
+          "schema" : "BasicApp",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "detailStepType" : "other",
+          "fetchedFromCache" : false,
+          "title" : "Gather provisioning inputs",
+          "buildStatus" : "succeeded",
+          "endDate" : "2024-08-27T13:32:39.751000Z",
+          "documentURL" : "",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_3",
+          "errors" : [
+
+          ],
+          "warnings" : [
+
+          ],
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "startTimestamp" : 1724765559.750256,
+          "compilationDuration" : 0.0012360811233520508,
+          "endTimestamp" : 1724765559.751492,
+          "architecture" : "",
+          "warningCount" : 0,
+          "subSteps" : [
+
+          ],
+          "startDate" : "2024-08-27T13:32:39.750000Z",
+          "notes" : [
+
+          ],
+          "signature" : "GatherProvisioningInputs",
+          "errorCount" : 0
+        },
+        {
+          "startDate" : "2024-08-27T13:32:39.754000Z",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "endDate" : "2024-08-27T13:32:41.023000Z",
+          "architecture" : "",
+          "fetchedFromCache" : false,
+          "errorCount" : 0,
+          "title" : "Create build description",
+          "machineName" : "COLTMV20KF9J",
+          "type" : "detail",
+          "duration" : 1.2686209678649902,
+          "buildStatus" : "succeeded",
+          "detailStepType" : "other",
+          "compilationDuration" : 1.2686209678649902,
+          "notes" : [
+
+          ],
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_6",
+          "documentURL" : "",
+          "warnings" : [
+
+          ],
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "warningCount" : 0,
+          "signature" : "CreateBuildDescription",
+          "errors" : [
+
+          ],
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_3",
+          "startTimestamp" : 1724765559.754475,
+          "compilationEndTimestamp" : 1724765561.023096,
+          "endTimestamp" : 1724765561.023096,
+          "schema" : "BasicApp",
+          "subSteps" : [
+            {
+              "signature" : "ExecuteExternalTool \/Applications\/Xcode-15.4.0.app\/Contents\/Developer\/usr\/bin\/actool --print-asset-tag-combinations --output-format xml1 \/Users\/brenno.moura\/Downloads\/XCMetrics-main\/Examples\/BasicApp\/BasicApp\/Assets.xcassets",
+              "type" : "detail",
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "architecture" : "",
+              "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_6",
+              "endTimestamp" : 1724765560.8751268,
+              "fetchedFromCache" : false,
+              "subSteps" : [
+
+              ],
+              "errorCount" : 0,
+              "startDate" : "2024-08-27T13:32:39.761000Z",
+              "documentURL" : "",
+              "schema" : "BasicApp",
+              "compilationEndTimestamp" : 1724765560.8751268,
+              "warningCount" : 0,
+              "endDate" : "2024-08-27T13:32:40.875000Z",
+              "warnings" : [
+
+              ],
+              "buildStatus" : "succeeded",
+              "compilationDuration" : 1.1139169931411743,
+              "errors" : [
+
+              ],
+              "machineName" : "COLTMV20KF9J",
+              "title" : "Compute asset tag combinations",
+              "notes" : [
+
+              ],
+              "startTimestamp" : 1724765559.76121,
+              "duration" : 1.1139169931411743,
+              "detailStepType" : "other",
+              "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+              "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_7"
+            },
+            {
+              "fetchedFromCache" : false,
+              "architecture" : "",
+              "compilationDuration" : 1.1013211011886597,
+              "startDate" : "2024-08-27T13:32:39.761000Z",
+              "detailStepType" : "other",
+              "type" : "detail",
+              "warningCount" : 0,
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1724765560.8627992,
+              "documentURL" : "",
+              "buildStatus" : "succeeded",
+              "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_6",
+              "machineName" : "COLTMV20KF9J",
+              "startTimestamp" : 1724765559.761478,
+              "endTimestamp" : 1724765560.8627992,
+              "errorCount" : 0,
+              "subSteps" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "duration" : 1.1013211011886597,
+              "warnings" : [
+
+              ],
+              "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+              "title" : "Discovering version info for ibtool",
+              "signature" : "ExecuteExternalTool \/Applications\/Xcode-15.4.0.app\/Contents\/Developer\/usr\/bin\/ibtool --version --output-format xml1",
+              "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_8",
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "schema" : "BasicApp",
+              "endDate" : "2024-08-27T13:32:40.863000Z"
+            },
+            {
+              "compilationDuration" : 0.04962301254272461,
+              "type" : "detail",
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "documentURL" : "",
+              "endDate" : "2024-08-27T13:32:40.913000Z",
+              "notes" : [
+
+              ],
+              "subSteps" : [
+
+              ],
+              "compilationEndTimestamp" : 1724765560.912507,
+              "title" : "Discovering version info for clang",
+              "errorCount" : 0,
+              "endTimestamp" : 1724765560.912507,
+              "architecture" : "",
+              "fetchedFromCache" : false,
+              "signature" : "ExecuteExternalTool \/Applications\/Xcode-15.4.0.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/bin\/clang -v -E -dM -isysroot \/Applications\/Xcode-15.4.0.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator17.5.sdk -x c -c \/dev\/null",
+              "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+              "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_6",
+              "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_9",
+              "machineName" : "COLTMV20KF9J",
+              "warnings" : [
+
+              ],
+              "startDate" : "2024-08-27T13:32:40.863000Z",
+              "schema" : "BasicApp",
+              "warningCount" : 0,
+              "startTimestamp" : 1724765560.862884,
+              "errors" : [
+
+              ],
+              "buildStatus" : "succeeded",
+              "detailStepType" : "other",
+              "duration" : 0.04962301254272461
+            },
+            {
+              "subSteps" : [
+
+              ],
+              "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+              "machineName" : "COLTMV20KF9J",
+              "endTimestamp" : 1724765560.9215422,
+              "documentURL" : "",
+              "compilationEndTimestamp" : 1724765560.9215422,
+              "notes" : [
+
+              ],
+              "startDate" : "2024-08-27T13:32:40.913000Z",
+              "detailStepType" : "other",
+              "type" : "detail",
+              "buildStatus" : "succeeded",
+              "fetchedFromCache" : false,
+              "endDate" : "2024-08-27T13:32:40.922000Z",
+              "startTimestamp" : 1724765560.9132252,
+              "errors" : [
+
+              ],
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "compilationDuration" : 0.008316993713378906,
+              "warnings" : [
+
+              ],
+              "signature" : "ExecuteExternalTool \/Applications\/Xcode-15.4.0.app\/Contents\/Developer\/usr\/bin\/actool --version --output-format xml1",
+              "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_6",
+              "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_10",
+              "warningCount" : 0,
+              "schema" : "BasicApp",
+              "title" : "Discovering version info for actool",
+              "duration" : 0.008316993713378906,
+              "architecture" : "",
+              "errorCount" : 0
+            },
+            {
+              "architecture" : "",
+              "machineName" : "COLTMV20KF9J",
+              "compilationDuration" : 0.05949199199676514,
+              "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_6",
+              "duration" : 0.05949199199676514,
+              "errors" : [
+
+              ],
+              "fetchedFromCache" : false,
+              "notes" : [
+
+              ],
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "errorCount" : 0,
+              "schema" : "BasicApp",
+              "startTimestamp" : 1724765560.922309,
+              "buildStatus" : "succeeded",
+              "type" : "detail",
+              "signature" : "ExecuteExternalTool \/Applications\/Xcode-15.4.0.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/bin\/swiftc -v",
+              "compilationEndTimestamp" : 1724765560.981801,
+              "endDate" : "2024-08-27T13:32:40.982000Z",
+              "documentURL" : "",
+              "warningCount" : 0,
+              "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+              "subSteps" : [
+
+              ],
+              "startDate" : "2024-08-27T13:32:40.922000Z",
+              "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_11",
+              "detailStepType" : "other",
+              "warnings" : [
+
+              ],
+              "endTimestamp" : 1724765560.981801,
+              "title" : "Discovering version info for swiftc"
+            },
+            {
+              "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+              "detailStepType" : "other",
+              "fetchedFromCache" : false,
+              "type" : "detail",
+              "architecture" : "",
+              "errors" : [
+
+              ],
+              "errorCount" : 0,
+              "documentURL" : "",
+              "notes" : [
+
+              ],
+              "schema" : "BasicApp",
+              "warningCount" : 0,
+              "startDate" : "2024-08-27T13:32:40.985000Z",
+              "warnings" : [
+
+              ],
+              "signature" : "ExecuteExternalTool \/Applications\/Xcode-15.4.0.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/bin\/ld -version_details",
+              "compilationDuration" : 0.007670998573303223,
+              "startTimestamp" : 1724765560.985011,
+              "subSteps" : [
+
+              ],
+              "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_12",
+              "endDate" : "2024-08-27T13:32:40.993000Z",
+              "compilationEndTimestamp" : 1724765560.992682,
+              "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_6",
+              "buildStatus" : "succeeded",
+              "machineName" : "COLTMV20KF9J",
+              "endTimestamp" : 1724765560.992682,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "title" : "Discovering version info for ld",
+              "duration" : 0.007670998573303223
+            }
+          ]
+        },
+        {
+          "notes" : [
+
+          ],
+          "warnings" : [
+
+          ],
+          "schema" : "BasicApp",
+          "subSteps" : [
+
+          ],
+          "signature" : "CreateBuildDirectory \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex",
+          "startDate" : "2024-08-27T13:28:27.642000Z",
+          "endDate" : "2024-08-27T13:28:27.643000Z",
+          "startTimestamp" : 1724765307.641945,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "compilationDuration" : 0.0005600452423095703,
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_13",
+          "fetchedFromCache" : true,
+          "title" : "Create build directory $(OBJROOT)",
+          "duration" : 0.0005600452423095703,
+          "compilationEndTimestamp" : 1724765307.6425052,
+          "warningCount" : 0,
+          "documentURL" : "",
+          "machineName" : "COLTMV20KF9J",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_3",
+          "detailStepType" : "other",
+          "architecture" : "",
+          "errorCount" : 0,
+          "buildStatus" : "succeeded",
+          "type" : "detail",
+          "errors" : [
+
+          ],
+          "endTimestamp" : 1724765307.6425052
+        },
+        {
+          "warnings" : [
+
+          ],
+          "buildStatus" : "succeeded",
+          "compilationDuration" : 0.00039005279541015625,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_3",
+          "warningCount" : 0,
+          "title" : "Create build directory $(OBJROOT)\/EagerLinkingTBDs\/Debug-iphonesimulator",
+          "endDate" : "2024-08-27T13:28:27.643000Z",
+          "startTimestamp" : 1724765307.642816,
+          "duration" : 0.00039005279541015625,
+          "notes" : [
+
+          ],
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "type" : "detail",
+          "machineName" : "COLTMV20KF9J",
+          "endTimestamp" : 1724765307.6432061,
+          "architecture" : "",
+          "errorCount" : 0,
+          "subSteps" : [
+
+          ],
+          "fetchedFromCache" : true,
+          "compilationEndTimestamp" : 1724765307.6432061,
+          "documentURL" : "",
+          "schema" : "BasicApp",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_14",
+          "startDate" : "2024-08-27T13:28:27.643000Z",
+          "detailStepType" : "other",
+          "errors" : [
+
+          ],
+          "signature" : "CreateBuildDirectory \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/EagerLinkingTBDs\/Debug-iphonesimulator",
+          "domain" : "com.apple.dt.IDE.BuildLogSection"
+        },
+        {
+          "endTimestamp" : 1724765307.6426,
+          "detailStepType" : "other",
+          "machineName" : "COLTMV20KF9J",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "compilationDuration" : 0.0005021095275878906,
+          "errors" : [
+
+          ],
+          "documentURL" : "",
+          "title" : "Create build directory $(TARGET_BUILD_DIR)",
+          "endDate" : "2024-08-27T13:28:27.643000Z",
+          "compilationEndTimestamp" : 1724765307.6426,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "schema" : "BasicApp",
+          "warningCount" : 0,
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "signature" : "CreateBuildDirectory \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products",
+          "errorCount" : 0,
+          "fetchedFromCache" : true,
+          "startTimestamp" : 1724765307.642098,
+          "type" : "detail",
+          "subSteps" : [
+
+          ],
+          "architecture" : "",
+          "startDate" : "2024-08-27T13:28:27.642000Z",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_15",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_3",
+          "duration" : 0.0005021095275878906,
+          "buildStatus" : "succeeded"
+        },
+        {
+          "duration" : 0.00047194957733154297,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "schema" : "BasicApp",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_16",
+          "machineName" : "COLTMV20KF9J",
+          "documentURL" : "",
+          "errorCount" : 0,
+          "subSteps" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "endTimestamp" : 1724765307.643127,
+          "errors" : [
+
+          ],
+          "warnings" : [
+
+          ],
+          "startTimestamp" : 1724765307.642655,
+          "buildStatus" : "succeeded",
+          "endDate" : "2024-08-27T13:28:27.643000Z",
+          "signature" : "CreateBuildDirectory \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products\/Debug-iphonesimulator",
+          "detailStepType" : "other",
+          "compilationEndTimestamp" : 1724765307.643127,
+          "compilationDuration" : 0.00047194957733154297,
+          "startDate" : "2024-08-27T13:28:27.643000Z",
+          "architecture" : "",
+          "type" : "detail",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "warningCount" : 0,
+          "title" : "Create build directory $(TARGET_BUILD_DIR)\/Debug-iphonesimulator",
+          "fetchedFromCache" : true,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_3"
+        },
+        {
+          "title" : "Build stat cache for \/Applications\/Xcode-15.4.0.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator17.5.sdk",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_3",
+          "architecture" : "",
+          "type" : "detail",
+          "endTimestamp" : 1724765561.179023,
+          "buildStatus" : "succeeded",
+          "startDate" : "2024-08-27T13:32:41.028000Z",
+          "warnings" : [
+
+          ],
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_17",
+          "notes" : [
+
+          ],
+          "schema" : "BasicApp",
+          "duration" : 0.15104103088378906,
+          "fetchedFromCache" : false,
+          "compilationEndTimestamp" : 1724765561.179023,
+          "subSteps" : [
+
+          ],
+          "errorCount" : 0,
+          "errors" : [
+
+          ],
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "warningCount" : 0,
+          "detailStepType" : "other",
+          "compilationDuration" : 0.15104103088378906,
+          "machineName" : "COLTMV20KF9J",
+          "documentURL" : "",
+          "endDate" : "2024-08-27T13:32:41.179000Z",
+          "signature" : "ClangStatCache \/Applications\/Xcode-15.4.0.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/bin\/clang-stat-cache \/Applications\/Xcode-15.4.0.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator17.5.sdk \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/SDKStatCaches.noindex\/iphonesimulator17.5-21F77-89c9b7af80e5612d0557fcca3b72165f.sdkstatcache",
+          "startTimestamp" : 1724765561.027982,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D"
+        }
+      ],
+      "title" : "Prepare build",
+      "architecture" : "",
+      "detailStepType" : "none",
+      "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+      "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_1",
+      "notes" : [
+
+      ],
+      "warningCount" : 0,
+      "documentURL" : "",
+      "machineName" : "COLTMV20KF9J",
+      "fetchedFromCache" : false,
+      "duration" : 2.2414950132369995,
+      "compilationDuration" : 0,
+      "errors" : [
+
+      ],
+      "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_3",
+      "domain" : "Xcode.IDEActivityLogDomainType.XCBuild.Preparation",
+      "type" : "target",
+      "schema" : "BasicApp"
+    },
+    {
+      "signature" : "eyJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IkM1MjVFRDg5MjUyQjA1QzAwMENBREFDMyIsImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYnJlbm5vLm1vdXJhXC9Eb3dubG9hZHNcL1hDTWV0cmljcy1tYWluXC9FeGFtcGxlc1wvQmFzaWNBcHBcL0Jhc2ljQXBwLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX19",
+      "title" : "Build target BasicApp",
+      "compilationDuration" : 0,
+      "schema" : "BasicApp",
+      "architecture" : "",
+      "errorCount" : 0,
+      "startTimestamp" : 1724765561.179214,
+      "errors" : [
+
+      ],
+      "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_1",
+      "endDate" : "2024-08-27T13:32:41.966000Z",
+      "fetchedFromCache" : false,
+      "notes" : [
+
+      ],
+      "domain" : "Xcode.IDEActivityLogDomainType.target.product-type.application",
+      "documentURL" : "",
+      "warningCount" : 1,
+      "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+      "compilationEndTimestamp" : 1724765561.179214,
+      "detailStepType" : "none",
+      "type" : "target",
+      "endTimestamp" : 1724765561.9657822,
+      "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+      "subSteps" : [
+        {
+          "documentURL" : "",
+          "warnings" : [
+
+          ],
+          "signature" : "MkDir \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products\/Debug-iphonesimulator\/BasicApp.app (in target 'BasicApp' from project 'BasicApp')",
+          "startTimestamp" : 1724765307.643567,
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_19",
+          "startDate" : "2024-08-27T13:28:27.644000Z",
+          "errors" : [
+
+          ],
+          "architecture" : "",
+          "errorCount" : 0,
+          "compilationEndTimestamp" : 1724765307.6436749,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "endTimestamp" : 1724765307.6436749,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "type" : "detail",
+          "title" : "Create directory BasicApp.app",
+          "warningCount" : 0,
+          "subSteps" : [
+
+          ],
+          "endDate" : "2024-08-27T13:28:27.644000Z",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "machineName" : "COLTMV20KF9J",
+          "detailStepType" : "other",
+          "schema" : "BasicApp",
+          "duration" : 0.00010800361633300781,
+          "notes" : [
+
+          ],
+          "compilationDuration" : 0.00010800361633300781,
+          "fetchedFromCache" : true,
+          "buildStatus" : "succeeded"
+        },
+        {
+          "fetchedFromCache" : true,
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/DerivedSources\/Entitlements-Simulated.plist (in target 'BasicApp' from project 'BasicApp')",
+          "architecture" : "",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "startDate" : "2024-08-27T13:28:27.644000Z",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_20",
+          "warningCount" : 0,
+          "title" : "Write Entitlements-Simulated.plist",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1724765307.644617,
+          "errorCount" : 0,
+          "startTimestamp" : 1724765307.644084,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "type" : "detail",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "machineName" : "COLTMV20KF9J",
+          "compilationEndTimestamp" : 1724765307.644617,
+          "schema" : "BasicApp",
+          "endDate" : "2024-08-27T13:28:27.645000Z",
+          "buildStatus" : "succeeded",
+          "errors" : [
+
+          ],
+          "duration" : 0.000532984733581543,
+          "documentURL" : "",
+          "compilationDuration" : 0.000532984733581543,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "documentURL" : "",
+          "subSteps" : [
+
+          ],
+          "architecture" : "",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "errors" : [
+
+          ],
+          "warnings" : [
+
+          ],
+          "endDate" : "2024-08-27T13:28:27.645000Z",
+          "title" : "Process product packaging",
+          "startTimestamp" : 1724765307.644819,
+          "detailStepType" : "other",
+          "warningCount" : 0,
+          "compilationDuration" : 0.0005190372467041016,
+          "machineName" : "COLTMV20KF9J",
+          "signature" : "ProcessProductPackaging \"\" \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/BasicApp.app-Simulated.xcent (in target 'BasicApp' from project 'BasicApp')",
+          "fetchedFromCache" : true,
+          "startDate" : "2024-08-27T13:28:27.645000Z",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "notes" : [
+
+          ],
+          "schema" : "BasicApp",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "type" : "detail",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_21",
+          "buildStatus" : "succeeded",
+          "errorCount" : 0,
+          "duration" : 0.0005190372467041016,
+          "compilationEndTimestamp" : 1724765307.645338,
+          "endTimestamp" : 1724765307.645338
+        },
+        {
+          "warnings" : [
+
+          ],
+          "schema" : "BasicApp",
+          "type" : "detail",
+          "duration" : 0.0005460977554321289,
+          "machineName" : "COLTMV20KF9J",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "architecture" : "",
+          "errorCount" : 0,
+          "startDate" : "2024-08-27T13:28:27.644000Z",
+          "startTimestamp" : 1724765307.643948,
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_22",
+          "documentURL" : "",
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/DerivedSources\/Entitlements.plist (in target 'BasicApp' from project 'BasicApp')",
+          "title" : "Write Entitlements.plist",
+          "warningCount" : 0,
+          "compilationDuration" : 0.0005460977554321289,
+          "compilationEndTimestamp" : 1724765307.644494,
+          "endTimestamp" : 1724765307.644494,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "detailStepType" : "writeAuxiliaryFile",
+          "fetchedFromCache" : true,
+          "notes" : [
+
+          ],
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "errors" : [
+
+          ],
+          "buildStatus" : "succeeded",
+          "endDate" : "2024-08-27T13:28:27.644000Z",
+          "subSteps" : [
+
+          ]
+        },
+        {
+          "schema" : "BasicApp",
+          "architecture" : "",
+          "documentURL" : "",
+          "warningCount" : 0,
+          "machineName" : "COLTMV20KF9J",
+          "warnings" : [
+
+          ],
+          "buildStatus" : "succeeded",
+          "title" : "Process product packaging",
+          "fetchedFromCache" : true,
+          "compilationDuration" : 0.00034689903259277344,
+          "endTimestamp" : 1724765307.645042,
+          "errorCount" : 0,
+          "subSteps" : [
+
+          ],
+          "startTimestamp" : 1724765307.644695,
+          "signature" : "ProcessProductPackaging \"\" \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/BasicApp.app.xcent (in target 'BasicApp' from project 'BasicApp')",
+          "type" : "detail",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "compilationEndTimestamp" : 1724765307.645042,
+          "endDate" : "2024-08-27T13:28:27.645000Z",
+          "detailStepType" : "other",
+          "startDate" : "2024-08-27T13:28:27.645000Z",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_23",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "notes" : [
+
+          ],
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "errors" : [
+
+          ],
+          "duration" : 0.00034689903259277344
+        },
+        {
+          "startDate" : "2024-08-27T13:28:27.645000Z",
+          "subSteps" : [
+
+          ],
+          "architecture" : "",
+          "machineName" : "COLTMV20KF9J",
+          "compilationDuration" : 0.0035210847854614258,
+          "startTimestamp" : 1724765307.6453938,
+          "detailStepType" : "other",
+          "warningCount" : 0,
+          "type" : "detail",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_24",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "warnings" : [
+
+          ],
+          "duration" : 0.0035210847854614258,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "fetchedFromCache" : true,
+          "errorCount" : 0,
+          "compilationEndTimestamp" : 1724765307.648915,
+          "title" : "Generate DER entitlements",
+          "endDate" : "2024-08-27T13:28:27.649000Z",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "signature" : "ProcessProductPackagingDER \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/BasicApp.app-Simulated.xcent \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/BasicApp.app-Simulated.xcent.der (in target 'BasicApp' from project 'BasicApp')",
+          "notes" : [
+
+          ],
+          "endTimestamp" : 1724765307.648915,
+          "buildStatus" : "succeeded",
+          "errors" : [
+
+          ],
+          "schema" : "BasicApp",
+          "documentURL" : ""
+        },
+        {
+          "title" : "Generate DER entitlements",
+          "warningCount" : 0,
+          "startTimestamp" : 1724765307.6450992,
+          "schema" : "BasicApp",
+          "fetchedFromCache" : true,
+          "type" : "detail",
+          "compilationEndTimestamp" : 1724765307.648765,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "duration" : 0.003665924072265625,
+          "startDate" : "2024-08-27T13:28:27.645000Z",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "compilationDuration" : 0.003665924072265625,
+          "documentURL" : "",
+          "errors" : [
+
+          ],
+          "architecture" : "",
+          "notes" : [
+
+          ],
+          "errorCount" : 0,
+          "endDate" : "2024-08-27T13:28:27.649000Z",
+          "warnings" : [
+
+          ],
+          "endTimestamp" : 1724765307.648765,
+          "detailStepType" : "other",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_25",
+          "signature" : "ProcessProductPackagingDER \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/BasicApp.app.xcent \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/BasicApp.app.xcent.der (in target 'BasicApp' from project 'BasicApp')",
+          "machineName" : "COLTMV20KF9J",
+          "subSteps" : [
+
+          ],
+          "buildStatus" : "succeeded",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18"
+        },
+        {
+          "duration" : 0.000908970832824707,
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/BasicApp-all-non-framework-target-headers.hmap (in target 'BasicApp' from project 'BasicApp')",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_26",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "subSteps" : [
+
+          ],
+          "compilationEndTimestamp" : 1724765307.650553,
+          "fetchedFromCache" : true,
+          "endTimestamp" : 1724765307.650553,
+          "machineName" : "COLTMV20KF9J",
+          "endDate" : "2024-08-27T13:28:27.651000Z",
+          "compilationDuration" : 0.000908970832824707,
+          "startTimestamp" : 1724765307.649644,
+          "errorCount" : 0,
+          "notes" : [
+
+          ],
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "errors" : [
+
+          ],
+          "architecture" : "",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "warningCount" : 0,
+          "startDate" : "2024-08-27T13:28:27.650000Z",
+          "type" : "detail",
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile",
+          "warnings" : [
+
+          ],
+          "schema" : "BasicApp",
+          "title" : "Write BasicApp-all-non-framework-target-headers.hmap",
+          "buildStatus" : "succeeded"
+        },
+        {
+          "compilationEndTimestamp" : 1724765307.650393,
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/BasicApp-all-target-headers.hmap (in target 'BasicApp' from project 'BasicApp')",
+          "schema" : "BasicApp",
+          "warningCount" : 0,
+          "errorCount" : 0,
+          "detailStepType" : "writeAuxiliaryFile",
+          "startDate" : "2024-08-27T13:28:27.650000Z",
+          "buildStatus" : "succeeded",
+          "type" : "detail",
+          "errors" : [
+
+          ],
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "endTimestamp" : 1724765307.650393,
+          "startTimestamp" : 1724765307.64952,
+          "architecture" : "",
+          "compilationDuration" : 0.0008729696273803711,
+          "title" : "Write BasicApp-all-target-headers.hmap",
+          "subSteps" : [
+
+          ],
+          "documentURL" : "",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "endDate" : "2024-08-27T13:28:27.650000Z",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "fetchedFromCache" : true,
+          "notes" : [
+
+          ],
+          "machineName" : "COLTMV20KF9J",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_27",
+          "warnings" : [
+
+          ],
+          "duration" : 0.0008729696273803711
+        },
+        {
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_28",
+          "buildStatus" : "succeeded",
+          "documentURL" : "",
+          "errors" : [
+
+          ],
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "machineName" : "COLTMV20KF9J",
+          "detailStepType" : "writeAuxiliaryFile",
+          "startDate" : "2024-08-27T13:28:27.649000Z",
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/BasicApp-generated-files.hmap (in target 'BasicApp' from project 'BasicApp')",
+          "fetchedFromCache" : true,
+          "notes" : [
+
+          ],
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "subSteps" : [
+
+          ],
+          "duration" : 0.001078963279724121,
+          "startTimestamp" : 1724765307.649394,
+          "endDate" : "2024-08-27T13:28:27.650000Z",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "errorCount" : 0,
+          "compilationEndTimestamp" : 1724765307.650473,
+          "endTimestamp" : 1724765307.650473,
+          "warningCount" : 0,
+          "schema" : "BasicApp",
+          "architecture" : "",
+          "compilationDuration" : 0.001078963279724121,
+          "type" : "detail",
+          "warnings" : [
+
+          ],
+          "title" : "Write BasicApp-generated-files.hmap"
+        },
+        {
+          "machineName" : "COLTMV20KF9J",
+          "subSteps" : [
+
+          ],
+          "startTimestamp" : 1724765307.649812,
+          "type" : "detail",
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/BasicApp-own-target-headers.hmap (in target 'BasicApp' from project 'BasicApp')",
+          "detailStepType" : "writeAuxiliaryFile",
+          "documentURL" : "",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "title" : "Write BasicApp-own-target-headers.hmap",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "startDate" : "2024-08-27T13:28:27.650000Z",
+          "errorCount" : 0,
+          "warnings" : [
+
+          ],
+          "schema" : "BasicApp",
+          "duration" : 0.0008540153503417969,
+          "endTimestamp" : 1724765307.650666,
+          "architecture" : "",
+          "warningCount" : 0,
+          "fetchedFromCache" : true,
+          "endDate" : "2024-08-27T13:28:27.651000Z",
+          "compilationEndTimestamp" : 1724765307.650666,
+          "compilationDuration" : 0.0008540153503417969,
+          "errors" : [
+
+          ],
+          "buildStatus" : "succeeded",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_29",
+          "notes" : [
+
+          ],
+          "domain" : "com.apple.dt.IDE.BuildLogSection"
+        },
+        {
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "subSteps" : [
+
+          ],
+          "compilationDuration" : 0.001074075698852539,
+          "schema" : "BasicApp",
+          "startDate" : "2024-08-27T13:28:27.649000Z",
+          "type" : "detail",
+          "errors" : [
+
+          ],
+          "buildStatus" : "succeeded",
+          "architecture" : "",
+          "title" : "Write BasicApp-project-headers.hmap",
+          "warnings" : [
+
+          ],
+          "machineName" : "COLTMV20KF9J",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "warningCount" : 0,
+          "duration" : 0.001074075698852539,
+          "endDate" : "2024-08-27T13:28:27.650000Z",
+          "fetchedFromCache" : true,
+          "compilationEndTimestamp" : 1724765307.650181,
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_30",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "documentURL" : "",
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/BasicApp-project-headers.hmap (in target 'BasicApp' from project 'BasicApp')",
+          "notes" : [
+
+          ],
+          "endTimestamp" : 1724765307.650181,
+          "startTimestamp" : 1724765307.649107,
+          "errorCount" : 0,
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile",
+          "schema" : "BasicApp",
+          "architecture" : "",
+          "startTimestamp" : 1724765307.648975,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_31",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "machineName" : "COLTMV20KF9J",
+          "warnings" : [
+
+          ],
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/BasicApp.hmap (in target 'BasicApp' from project 'BasicApp')",
+          "errorCount" : 0,
+          "fetchedFromCache" : true,
+          "duration" : 0.0011140108108520508,
+          "title" : "Write BasicApp.hmap",
+          "warningCount" : 0,
+          "notes" : [
+
+          ],
+          "buildStatus" : "succeeded",
+          "errors" : [
+
+          ],
+          "compilationDuration" : 0.0011140108108520508,
+          "startDate" : "2024-08-27T13:28:27.649000Z",
+          "endDate" : "2024-08-27T13:28:27.650000Z",
+          "endTimestamp" : 1724765307.650089,
+          "subSteps" : [
+
+          ],
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "compilationEndTimestamp" : 1724765307.650089
+        },
+        {
+          "type" : "detail",
+          "title" : "Write all-product-headers.yaml",
+          "endDate" : "2024-08-27T13:28:27.650000Z",
+          "startTimestamp" : 1724765307.649255,
+          "detailStepType" : "writeAuxiliaryFile",
+          "errorCount" : 0,
+          "subSteps" : [
+
+          ],
+          "schema" : "BasicApp",
+          "fetchedFromCache" : true,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "machineName" : "COLTMV20KF9J",
+          "compilationDuration" : 0.0010429620742797852,
+          "duration" : 0.0010429620742797852,
+          "startDate" : "2024-08-27T13:28:27.649000Z",
+          "buildStatus" : "succeeded",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/all-product-headers.yaml (in target 'BasicApp' from project 'BasicApp')",
+          "documentURL" : "",
+          "compilationEndTimestamp" : 1724765307.650298,
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_32",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "errors" : [
+
+          ],
+          "warningCount" : 0,
+          "architecture" : "",
+          "endTimestamp" : 1724765307.650298,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D"
+        },
+        {
+          "signature" : "GenerateAssetSymbols \/Users\/brenno.moura\/Downloads\/XCMetrics-main\/Examples\/BasicApp\/BasicApp\/Assets.xcassets (in target 'BasicApp' from project 'BasicApp')",
+          "warningCount" : 0,
+          "endTimestamp" : 1724765308.80262,
+          "detailStepType" : "other",
+          "title" : "Generate asset symbols",
+          "compilationDuration" : 1.1515311002731323,
+          "errorCount" : 0,
+          "duration" : 1.1515311002731323,
+          "fetchedFromCache" : true,
+          "machineName" : "COLTMV20KF9J",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "type" : "detail",
+          "errors" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_33",
+          "startDate" : "2024-08-27T13:28:27.651000Z",
+          "buildStatus" : "succeeded",
+          "startTimestamp" : 1724765307.651089,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "warnings" : [
+
+          ],
+          "subSteps" : [
+
+          ],
+          "documentURL" : "",
+          "compilationEndTimestamp" : 1724765308.80262,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "architecture" : "",
+          "schema" : "BasicApp",
+          "endDate" : "2024-08-27T13:28:28.803000Z"
+        },
+        {
+          "warningCount" : 0,
+          "type" : "detail",
+          "errorCount" : 0,
+          "compilationDuration" : 0.0010399818420410156,
+          "title" : "Write BasicApp.SwiftFileList (arm64)",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "warnings" : [
+
+          ],
+          "errors" : [
+
+          ],
+          "duration" : 0.0010399818420410156,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "endTimestamp" : 1724765307.6525621,
+          "schema" : "BasicApp",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_34",
+          "documentURL" : "",
+          "startTimestamp" : 1724765307.6515222,
+          "subSteps" : [
+
+          ],
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Objects-normal\/arm64\/BasicApp.SwiftFileList (in target 'BasicApp' from project 'BasicApp')",
+          "startDate" : "2024-08-27T13:28:27.652000Z",
+          "notes" : [
+
+          ],
+          "detailStepType" : "writeAuxiliaryFile",
+          "fetchedFromCache" : true,
+          "machineName" : "COLTMV20KF9J",
+          "compilationEndTimestamp" : 1724765307.6525621,
+          "architecture" : "",
+          "buildStatus" : "succeeded",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "endDate" : "2024-08-27T13:28:27.653000Z"
+        },
+        {
+          "notes" : [
+
+          ],
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_35",
+          "errorCount" : 0,
+          "documentURL" : "",
+          "errors" : [
+
+          ],
+          "warnings" : [
+
+          ],
+          "subSteps" : [
+
+          ],
+          "duration" : 0.001006007194519043,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "endTimestamp" : 1724765307.652648,
+          "schema" : "BasicApp",
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Objects-normal\/arm64\/BasicApp-OutputFileMap.json (in target 'BasicApp' from project 'BasicApp')",
+          "detailStepType" : "writeAuxiliaryFile",
+          "startTimestamp" : 1724765307.6516418,
+          "compilationDuration" : 0.001006007194519043,
+          "endDate" : "2024-08-27T13:28:27.653000Z",
+          "buildStatus" : "succeeded",
+          "warningCount" : 0,
+          "compilationEndTimestamp" : 1724765307.652648,
+          "startDate" : "2024-08-27T13:28:27.652000Z",
+          "fetchedFromCache" : true,
+          "architecture" : "",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "title" : "Write BasicApp-OutputFileMap.json (arm64)",
+          "type" : "detail",
+          "machineName" : "COLTMV20KF9J",
+          "domain" : "com.apple.dt.IDE.BuildLogSection"
+        },
+        {
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "startDate" : "2024-08-27T13:28:27.651000Z",
+          "fetchedFromCache" : true,
+          "warningCount" : 0,
+          "documentURL" : "",
+          "type" : "detail",
+          "detailStepType" : "writeAuxiliaryFile",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "compilationDuration" : 0.0010029077529907227,
+          "buildStatus" : "succeeded",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_36",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1724765307.652355,
+          "errors" : [
+
+          ],
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "machineName" : "COLTMV20KF9J",
+          "architecture" : "",
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Objects-normal\/arm64\/BasicApp_const_extract_protocols.json (in target 'BasicApp' from project 'BasicApp')",
+          "title" : "Write BasicApp_const_extract_protocols.json (arm64)",
+          "notes" : [
+
+          ],
+          "duration" : 0.0010029077529907227,
+          "schema" : "BasicApp",
+          "endDate" : "2024-08-27T13:28:27.652000Z",
+          "warnings" : [
+
+          ],
+          "startTimestamp" : 1724765307.651352,
+          "compilationEndTimestamp" : 1724765307.652355,
+          "errorCount" : 0
+        },
+        {
+          "schema" : "BasicApp",
+          "startTimestamp" : 1724765307.65276,
+          "notes" : [
+
+          ],
+          "endTimestamp" : 1724765308.804934,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "startDate" : "2024-08-27T13:28:27.653000Z",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "subSteps" : [
+
+          ],
+          "duration" : 1.1521739959716797,
+          "endDate" : "2024-08-27T13:28:28.805000Z",
+          "machineName" : "COLTMV20KF9J",
+          "type" : "detail",
+          "compilationEndTimestamp" : 1724765308.804934,
+          "architecture" : "",
+          "detailStepType" : "compileAssetsCatalog",
+          "errorCount" : 0,
+          "buildStatus" : "succeeded",
+          "signature" : "CompileAssetCatalog \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products\/Debug-iphonesimulator\/BasicApp.app \/Users\/brenno.moura\/Downloads\/XCMetrics-main\/Examples\/BasicApp\/BasicApp\/Assets.xcassets (in target 'BasicApp' from project 'BasicApp')",
+          "documentURL" : "",
+          "warnings" : [
+
+          ],
+          "errors" : [
+
+          ],
+          "fetchedFromCache" : true,
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_37",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "warningCount" : 0,
+          "compilationDuration" : 1.1521739959716797,
+          "title" : "Compile asset catalogs"
+        },
+        {
+          "type" : "detail",
+          "signature" : "CompileStoryboard \/Users\/brenno.moura\/Downloads\/XCMetrics-main\/Examples\/BasicApp\/BasicApp\/Base.lproj\/LaunchScreen.storyboard (in target 'BasicApp' from project 'BasicApp')",
+          "compilationDuration" : 0.3026009798049927,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "schema" : "BasicApp",
+          "machineName" : "COLTMV20KF9J",
+          "warnings" : [
+
+          ],
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_38",
+          "architecture" : "",
+          "buildStatus" : "succeeded",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "endTimestamp" : 1724765307.9544148,
+          "startTimestamp" : 1724765307.651814,
+          "subSteps" : [
+
+          ],
+          "compilationEndTimestamp" : 1724765307.9544148,
+          "errors" : [
+
+          ],
+          "warningCount" : 0,
+          "title" : "Compile Storyboard file LaunchScreen.storyboard",
+          "fetchedFromCache" : true,
+          "errorCount" : 0,
+          "documentURL" : "",
+          "detailStepType" : "compileStoryboard",
+          "notes" : [
+
+          ],
+          "duration" : 0.3026009798049927,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "endDate" : "2024-08-27T13:28:27.954000Z",
+          "startDate" : "2024-08-27T13:28:27.652000Z"
+        },
+        {
+          "errors" : [
+
+          ],
+          "schema" : "BasicApp",
+          "documentURL" : "",
+          "architecture" : "",
+          "title" : "Compile Storyboard file Main.storyboard",
+          "buildStatus" : "succeeded",
+          "subSteps" : [
+
+          ],
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "warningCount" : 0,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "duration" : 0.3036719560623169,
+          "compilationEndTimestamp" : 1724765307.955622,
+          "detailStepType" : "compileStoryboard",
+          "compilationDuration" : 0.3036719560623169,
+          "endDate" : "2024-08-27T13:28:27.956000Z",
+          "machineName" : "COLTMV20KF9J",
+          "startTimestamp" : 1724765307.65195,
+          "type" : "detail",
+          "fetchedFromCache" : true,
+          "notes" : [
+
+          ],
+          "startDate" : "2024-08-27T13:28:27.652000Z",
+          "errorCount" : 0,
+          "endTimestamp" : 1724765307.955622,
+          "warnings" : [
+
+          ],
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_39",
+          "signature" : "CompileStoryboard \/Users\/brenno.moura\/Downloads\/XCMetrics-main\/Examples\/BasicApp\/BasicApp\/Base.lproj\/Main.storyboard (in target 'BasicApp' from project 'BasicApp')"
+        },
+        {
+          "type" : "detail",
+          "errors" : [
+
+          ],
+          "schema" : "BasicApp",
+          "architecture" : "",
+          "machineName" : "COLTMV20KF9J",
+          "warnings" : [
+
+          ],
+          "endTimestamp" : 1724765307.9702,
+          "duration" : 0.014432907104492188,
+          "warningCount" : 0,
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_40",
+          "notes" : [
+
+          ],
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "title" : "Link Storyboards",
+          "compilationDuration" : 0.014432907104492188,
+          "startDate" : "2024-08-27T13:28:27.956000Z",
+          "documentURL" : "",
+          "endDate" : "2024-08-27T13:28:27.970000Z",
+          "signature" : "LinkStoryboards (in target 'BasicApp' from project 'BasicApp')",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "subSteps" : [
+
+          ],
+          "detailStepType" : "linkStoryboards",
+          "fetchedFromCache" : true,
+          "startTimestamp" : 1724765307.9557672,
+          "errorCount" : 0,
+          "compilationEndTimestamp" : 1724765307.9702,
+          "buildStatus" : "succeeded"
+        },
+        {
+          "warningCount" : 0,
+          "architecture" : "",
+          "type" : "detail",
+          "notes" : [
+
+          ],
+          "duration" : 0.0004119873046875,
+          "subSteps" : [
+
+          ],
+          "startTimestamp" : 1724765309.1626592,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "signature" : "SwiftDriver\\ Compilation BasicApp normal arm64 com.apple.xcode.tools.swift.compiler (in target 'BasicApp' from project 'BasicApp')",
+          "documentURL" : "",
+          "compilationEndTimestamp" : 1724765309.1630712,
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_41",
+          "warnings" : [
+
+          ],
+          "errorCount" : 0,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "schema" : "BasicApp",
+          "compilationDuration" : 0.0004119873046875,
+          "detailStepType" : "other",
+          "title" : "Compile BasicApp (arm64)",
+          "endDate" : "2024-08-27T13:28:29.163000Z",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "buildStatus" : "succeeded",
+          "startDate" : "2024-08-27T13:28:29.163000Z",
+          "machineName" : "COLTMV20KF9J",
+          "fetchedFromCache" : true,
+          "endTimestamp" : 1724765309.1630712,
+          "errors" : [
+
+          ]
+        },
+        {
+          "type" : "detail",
+          "detailStepType" : "other",
+          "warnings" : [
+
+          ],
+          "compilationDuration" : 0.000613093376159668,
+          "warningCount" : 0,
+          "fetchedFromCache" : true,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "endTimestamp" : 1724765309.1481562,
+          "architecture" : "",
+          "errors" : [
+
+          ],
+          "startTimestamp" : 1724765309.147543,
+          "notes" : [
+
+          ],
+          "machineName" : "COLTMV20KF9J",
+          "documentURL" : "",
+          "startDate" : "2024-08-27T13:28:29.148000Z",
+          "subSteps" : [
+
+          ],
+          "duration" : 0.000613093376159668,
+          "buildStatus" : "succeeded",
+          "signature" : "SwiftDriver\\ Compilation\\ Requirements BasicApp normal arm64 com.apple.xcode.tools.swift.compiler (in target 'BasicApp' from project 'BasicApp')",
+          "compilationEndTimestamp" : 1724765309.1481562,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "schema" : "BasicApp",
+          "errorCount" : 0,
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_42",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "endDate" : "2024-08-27T13:28:29.148000Z",
+          "title" : "Unblock downstream dependents of BasicApp (arm64)"
+        },
+        {
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_43",
+          "compilationDuration" : 0.0012639760971069336,
+          "errors" : [
+
+          ],
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "fetchedFromCache" : true,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "warningCount" : 0,
+          "buildStatus" : "succeeded",
+          "schema" : "BasicApp",
+          "warnings" : [
+
+          ],
+          "type" : "detail",
+          "compilationEndTimestamp" : 1724765309.150554,
+          "notes" : [
+
+          ],
+          "errorCount" : 0,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "architecture" : "",
+          "title" : "Copy BasicApp.swiftsourceinfo (arm64)",
+          "startTimestamp" : 1724765309.14929,
+          "endTimestamp" : 1724765309.150554,
+          "startDate" : "2024-08-27T13:28:29.149000Z",
+          "endDate" : "2024-08-27T13:28:29.151000Z",
+          "detailStepType" : "other",
+          "duration" : 0.0012639760971069336,
+          "documentURL" : "file:\/\/\/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Objects-normal\/arm64\/BasicApp.swiftsourceinfo",
+          "signature" : "Copy \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products\/Debug-iphonesimulator\/BasicApp.swiftmodule\/Project\/arm64-apple-ios-simulator.swiftsourceinfo \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Objects-normal\/arm64\/BasicApp.swiftsourceinfo (in target 'BasicApp' from project 'BasicApp')",
+          "subSteps" : [
+
+          ],
+          "machineName" : "COLTMV20KF9J"
+        },
+        {
+          "notes" : [
+
+          ],
+          "signature" : "Copy \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products\/Debug-iphonesimulator\/BasicApp.swiftmodule\/arm64-apple-ios-simulator.abi.json \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Objects-normal\/arm64\/BasicApp.abi.json (in target 'BasicApp' from project 'BasicApp')",
+          "machineName" : "COLTMV20KF9J",
+          "fetchedFromCache" : true,
+          "subSteps" : [
+
+          ],
+          "compilationEndTimestamp" : 1724765309.1503901,
+          "errors" : [
+
+          ],
+          "startTimestamp" : 1724765309.1491718,
+          "documentURL" : "file:\/\/\/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Objects-normal\/arm64\/BasicApp.abi.json",
+          "endTimestamp" : 1724765309.1503901,
+          "buildStatus" : "succeeded",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "errorCount" : 0,
+          "warnings" : [
+
+          ],
+          "type" : "detail",
+          "duration" : 0.0012180805206298828,
+          "title" : "Copy BasicApp.abi.json (arm64)",
+          "architecture" : "",
+          "startDate" : "2024-08-27T13:28:29.149000Z",
+          "warningCount" : 0,
+          "compilationDuration" : 0.0012180805206298828,
+          "endDate" : "2024-08-27T13:28:29.150000Z",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_44",
+          "schema" : "BasicApp",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "detailStepType" : "other"
+        },
+        {
+          "endTimestamp" : 1724765309.1497722,
+          "warnings" : [
+
+          ],
+          "detailStepType" : "other",
+          "errorCount" : 0,
+          "subSteps" : [
+
+          ],
+          "compilationDuration" : 0.0008600950241088867,
+          "duration" : 0.0008600950241088867,
+          "compilationEndTimestamp" : 1724765309.1497722,
+          "endDate" : "2024-08-27T13:28:29.150000Z",
+          "type" : "detail",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_45",
+          "signature" : "Copy \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products\/Debug-iphonesimulator\/BasicApp.swiftmodule\/arm64-apple-ios-simulator.swiftdoc \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Objects-normal\/arm64\/BasicApp.swiftdoc (in target 'BasicApp' from project 'BasicApp')",
+          "documentURL" : "file:\/\/\/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Objects-normal\/arm64\/BasicApp.swiftdoc",
+          "warningCount" : 0,
+          "schema" : "BasicApp",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "title" : "Copy BasicApp.swiftdoc (arm64)",
+          "errors" : [
+
+          ],
+          "startTimestamp" : 1724765309.148912,
+          "notes" : [
+
+          ],
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "fetchedFromCache" : true,
+          "machineName" : "COLTMV20KF9J",
+          "startDate" : "2024-08-27T13:28:29.149000Z",
+          "buildStatus" : "succeeded",
+          "architecture" : "",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18"
+        },
+        {
+          "startTimestamp" : 1724765309.149053,
+          "architecture" : "",
+          "machineName" : "COLTMV20KF9J",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1724765309.150251,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "notes" : [
+
+          ],
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_46",
+          "signature" : "Copy \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products\/Debug-iphonesimulator\/BasicApp.swiftmodule\/arm64-apple-ios-simulator.swiftmodule \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Objects-normal\/arm64\/BasicApp.swiftmodule (in target 'BasicApp' from project 'BasicApp')",
+          "detailStepType" : "other",
+          "documentURL" : "file:\/\/\/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Objects-normal\/arm64\/BasicApp.swiftmodule",
+          "compilationEndTimestamp" : 1724765309.150251,
+          "title" : "Copy BasicApp.swiftmodule (arm64)",
+          "fetchedFromCache" : true,
+          "compilationDuration" : 0.0011980533599853516,
+          "type" : "detail",
+          "endDate" : "2024-08-27T13:28:29.150000Z",
+          "warnings" : [
+
+          ],
+          "duration" : 0.0011980533599853516,
+          "errorCount" : 0,
+          "warningCount" : 0,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "schema" : "BasicApp",
+          "errors" : [
+
+          ],
+          "buildStatus" : "succeeded",
+          "startDate" : "2024-08-27T13:28:29.149000Z",
+          "domain" : "com.apple.dt.IDE.BuildLogSection"
+        },
+        {
+          "endTimestamp" : 1724765307.6524758,
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_47",
+          "errors" : [
+
+          ],
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "notes" : [
+
+          ],
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "warnings" : [
+
+          ],
+          "duration" : 0.0012758970260620117,
+          "endDate" : "2024-08-27T13:28:27.652000Z",
+          "fetchedFromCache" : true,
+          "warningCount" : 0,
+          "schema" : "BasicApp",
+          "subSteps" : [
+
+          ],
+          "architecture" : "",
+          "compilationEndTimestamp" : 1724765307.6524758,
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Objects-normal\/arm64\/BasicApp.LinkFileList (in target 'BasicApp' from project 'BasicApp')",
+          "buildStatus" : "succeeded",
+          "machineName" : "COLTMV20KF9J",
+          "errorCount" : 0,
+          "startDate" : "2024-08-27T13:28:27.651000Z",
+          "startTimestamp" : 1724765307.6512,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "title" : "Write BasicApp.LinkFileList (arm64)",
+          "documentURL" : "",
+          "compilationDuration" : 0.0012758970260620117,
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "documentURL" : "",
+          "startTimestamp" : 1724765309.1487179,
+          "warningCount" : 0,
+          "warnings" : [
+
+          ],
+          "startDate" : "2024-08-27T13:28:29.149000Z",
+          "notes" : [
+
+          ],
+          "fetchedFromCache" : true,
+          "architecture" : "",
+          "errors" : [
+
+          ],
+          "subSteps" : [
+
+          ],
+          "detailStepType" : "other",
+          "duration" : 0.001230001449584961,
+          "compilationDuration" : 0.001230001449584961,
+          "machineName" : "COLTMV20KF9J",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_48",
+          "signature" : "SwiftMergeGeneratedHeaders \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/DerivedSources\/BasicApp-Swift.h \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Objects-normal\/arm64\/BasicApp-Swift.h (in target 'BasicApp' from project 'BasicApp')",
+          "endTimestamp" : 1724765309.1499481,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "endDate" : "2024-08-27T13:28:29.150000Z",
+          "errorCount" : 0,
+          "type" : "detail",
+          "title" : "Merge Objective-C generated interface headers",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "compilationEndTimestamp" : 1724765309.1499481,
+          "buildStatus" : "succeeded",
+          "schema" : "BasicApp"
+        },
+        {
+          "notes" : [
+
+          ],
+          "warnings" : [
+
+          ],
+          "machineName" : "COLTMV20KF9J",
+          "type" : "detail",
+          "errors" : [
+
+          ],
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "errorCount" : 0,
+          "documentURL" : "",
+          "detailStepType" : "linker",
+          "endDate" : "2024-08-27T13:28:29.281000Z",
+          "startDate" : "2024-08-27T13:28:29.163000Z",
+          "subSteps" : [
+
+          ],
+          "startTimestamp" : 1724765309.163351,
+          "fetchedFromCache" : true,
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_49",
+          "schema" : "BasicApp",
+          "compilationDuration" : 0.11790990829467773,
+          "architecture" : "",
+          "compilationEndTimestamp" : 1724765309.281261,
+          "buildStatus" : "succeeded",
+          "endTimestamp" : 1724765309.281261,
+          "warningCount" : 0,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "signature" : "Ld \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products\/Debug-iphonesimulator\/BasicApp.app\/BasicApp normal (in target 'BasicApp' from project 'BasicApp')",
+          "duration" : 0.11790990829467773,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "title" : "Link BasicApp (arm64)"
+        },
+        {
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "architecture" : "",
+          "buildStatus" : "succeeded",
+          "endTimestamp" : 1724765561.181695,
+          "startTimestamp" : 1724765561.181567,
+          "fetchedFromCache" : false,
+          "type" : "detail",
+          "compilationDuration" : 0.00012803077697753906,
+          "endDate" : "2024-08-27T13:32:41.182000Z",
+          "errors" : [
+
+          ],
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Script-1600415B2C7E0CEA00465836.sh (in target 'BasicApp' from project 'BasicApp')",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_50",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "subSteps" : [
+
+          ],
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "notes" : [
+
+          ],
+          "warnings" : [
+
+          ],
+          "documentURL" : "",
+          "warningCount" : 0,
+          "errorCount" : 0,
+          "title" : "Write Script-1600415B2C7E0CEA00465836.sh",
+          "schema" : "BasicApp",
+          "startDate" : "2024-08-27T13:32:41.182000Z",
+          "duration" : 0.00012803077697753906,
+          "machineName" : "COLTMV20KF9J",
+          "detailStepType" : "writeAuxiliaryFile",
+          "compilationEndTimestamp" : 1724765561.181695
+        },
+        {
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "machineName" : "COLTMV20KF9J",
+          "compilationEndTimestamp" : 1724765561.9378672,
+          "fetchedFromCache" : false,
+          "endDate" : "2024-08-27T13:32:41.938000Z",
+          "buildStatus" : "succeeded",
+          "compilationDuration" : 0.7561030387878418,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "documentURL" : "",
+          "warningCount" : 0,
+          "type" : "detail",
+          "startTimestamp" : 1724765561.1817641,
+          "subSteps" : [
+
+          ],
+          "notes" : [
+            {
+              "title" : "Linting Swift files in current working directory",
+              "startingColumnNumber" : 0,
+              "endingColumnNumber" : 0,
+              "characterRangeStart" : 0,
+              "detail" : "Linting Swift files in current working directory\rLinting 'AppDelegate.swift' (1\/3)\rLinting 'ViewController.swift' (2\/3)\rLinting 'SceneDelegate.swift' (3\/3)\rDone linting! Found 17 violations, 0 serious in 3 files.",
+              "severity" : 0,
+              "characterRangeEnd" : 0,
+              "startingLineNumber" : 0,
+              "type" : "note",
+              "documentURL" : "",
+              "endingLineNumber" : 0
+            },
+            {
+              "title" : "Linting 'AppDelegate.swift' (1\/3)",
+              "startingLineNumber" : 0,
+              "documentURL" : "",
+              "characterRangeEnd" : 0,
+              "type" : "note",
+              "severity" : 0,
+              "startingColumnNumber" : 0,
+              "endingLineNumber" : 0,
+              "endingColumnNumber" : 0,
+              "detail" : "Linting Swift files in current working directory\rLinting 'AppDelegate.swift' (1\/3)\rLinting 'ViewController.swift' (2\/3)\rLinting 'SceneDelegate.swift' (3\/3)\rDone linting! Found 17 violations, 0 serious in 3 files.",
+              "characterRangeStart" : 0
+            },
+            {
+              "severity" : 0,
+              "type" : "note",
+              "documentURL" : "",
+              "startingLineNumber" : 0,
+              "endingColumnNumber" : 0,
+              "characterRangeEnd" : 0,
+              "endingLineNumber" : 0,
+              "characterRangeStart" : 0,
+              "title" : "Linting 'ViewController.swift' (2\/3)",
+              "startingColumnNumber" : 0,
+              "detail" : "Linting Swift files in current working directory\rLinting 'AppDelegate.swift' (1\/3)\rLinting 'ViewController.swift' (2\/3)\rLinting 'SceneDelegate.swift' (3\/3)\rDone linting! Found 17 violations, 0 serious in 3 files."
+            },
+            {
+              "startingColumnNumber" : 0,
+              "documentURL" : "",
+              "characterRangeEnd" : 0,
+              "detail" : "Linting Swift files in current working directory\rLinting 'AppDelegate.swift' (1\/3)\rLinting 'ViewController.swift' (2\/3)\rLinting 'SceneDelegate.swift' (3\/3)\rDone linting! Found 17 violations, 0 serious in 3 files.",
+              "endingLineNumber" : 0,
+              "endingColumnNumber" : 0,
+              "title" : "Linting 'SceneDelegate.swift' (3\/3)",
+              "type" : "note",
+              "severity" : 0,
+              "startingLineNumber" : 0,
+              "characterRangeStart" : 0
+            },
+            {
+              "type" : "note",
+              "endingLineNumber" : 0,
+              "startingColumnNumber" : 0,
+              "characterRangeEnd" : 0,
+              "characterRangeStart" : 0,
+              "detail" : "Linting Swift files in current working directory\rLinting 'AppDelegate.swift' (1\/3)\rLinting 'ViewController.swift' (2\/3)\rLinting 'SceneDelegate.swift' (3\/3)\rDone linting! Found 17 violations, 0 serious in 3 files.",
+              "severity" : 0,
+              "documentURL" : "",
+              "startingLineNumber" : 0,
+              "endingColumnNumber" : 0,
+              "title" : "Done linting! Found 17 violations, 0 serious in 3 files."
+            }
+          ],
+          "errorCount" : 0,
+          "schema" : "BasicApp",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_51",
+          "title" : "Run custom shell script 'Swiftlint'",
+          "errors" : [
+
+          ],
+          "warnings" : [
+
+          ],
+          "startDate" : "2024-08-27T13:32:41.182000Z",
+          "endTimestamp" : 1724765561.9378672,
+          "detailStepType" : "scriptExecution",
+          "duration" : 0.7561030387878418,
+          "signature" : "PhaseScriptExecution Swiftlint \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Script-1600415B2C7E0CEA00465836.sh (in target 'BasicApp' from project 'BasicApp')",
+          "architecture" : ""
+        },
+        {
+          "endDate" : "2024-08-27T13:32:41.939000Z",
+          "signature" : "WriteAuxiliaryFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Intermediates.noindex\/BasicApp.build\/Debug-iphonesimulator\/BasicApp.build\/Objects-normal\/arm64\/BasicApp.SwiftConstValuesFileList (in target 'BasicApp' from project 'BasicApp')",
+          "startDate" : "2024-08-27T13:32:41.938000Z",
+          "schema" : "BasicApp",
+          "errorCount" : 0,
+          "compilationDuration" : 0.0005409717559814453,
+          "machineName" : "COLTMV20KF9J",
+          "notes" : [
+
+          ],
+          "detailStepType" : "writeAuxiliaryFile",
+          "title" : "Write BasicApp.SwiftConstValuesFileList",
+          "duration" : 0.0005409717559814453,
+          "buildStatus" : "succeeded",
+          "type" : "detail",
+          "fetchedFromCache" : false,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "warningCount" : 0,
+          "subSteps" : [
+
+          ],
+          "architecture" : "",
+          "endTimestamp" : 1724765561.938546,
+          "warnings" : [
+
+          ],
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "startTimestamp" : 1724765561.938005,
+          "errors" : [
+
+          ],
+          "documentURL" : "",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_52",
+          "compilationEndTimestamp" : 1724765561.938546
+        },
+        {
+          "duration" : 0.0010529756546020508,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "compilationDuration" : 0.0010529756546020508,
+          "compilationEndTimestamp" : 1724765561.939708,
+          "detailStepType" : "other",
+          "startTimestamp" : 1724765561.938655,
+          "startDate" : "2024-08-27T13:32:41.939000Z",
+          "architecture" : "",
+          "machineName" : "COLTMV20KF9J",
+          "endTimestamp" : 1724765561.939708,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "documentURL" : "",
+          "warnings" : [
+
+          ],
+          "errors" : [
+
+          ],
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_53",
+          "signature" : "ExtractAppIntentsMetadata (in target 'BasicApp' from project 'BasicApp')",
+          "warningCount" : 0,
+          "errorCount" : 0,
+          "subSteps" : [
+
+          ],
+          "schema" : "BasicApp",
+          "notes" : [
+            {
+              "severity" : 0,
+              "title" : "Metadata extraction skipped. No AppIntents.framework dependency found.",
+              "type" : "note",
+              "startingColumnNumber" : 0,
+              "characterRangeEnd" : 0,
+              "endingColumnNumber" : 0,
+              "characterRangeStart" : 0,
+              "detail" : "note: Metadata extraction skipped. No AppIntents.framework dependency found. (in target 'BasicApp' from project 'BasicApp')",
+              "endingLineNumber" : 0,
+              "documentURL" : "",
+              "startingLineNumber" : 0
+            }
+          ],
+          "title" : "Extract app intents metadata",
+          "type" : "detail",
+          "endDate" : "2024-08-27T13:32:41.940000Z",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "buildStatus" : "succeeded",
+          "fetchedFromCache" : false
+        },
+        {
+          "buildStatus" : "succeeded",
+          "title" : "Process Info.plist",
+          "machineName" : "COLTMV20KF9J",
+          "architecture" : "",
+          "compilationDuration" : 0.005063056945800781,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "type" : "detail",
+          "warningCount" : 0,
+          "fetchedFromCache" : false,
+          "endTimestamp" : 1724765561.9450421,
+          "errorCount" : 0,
+          "subSteps" : [
+
+          ],
+          "duration" : 0.005063056945800781,
+          "errors" : [
+
+          ],
+          "warnings" : [
+
+          ],
+          "startDate" : "2024-08-27T13:32:41.940000Z",
+          "compilationEndTimestamp" : 1724765561.9450421,
+          "detailStepType" : "other",
+          "signature" : "ProcessInfoPlistFile \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products\/Debug-iphonesimulator\/BasicApp.app\/Info.plist \/Users\/brenno.moura\/Downloads\/XCMetrics-main\/Examples\/BasicApp\/BasicApp\/Info.plist (in target 'BasicApp' from project 'BasicApp')",
+          "notes" : [
+
+          ],
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_54",
+          "schema" : "BasicApp",
+          "endDate" : "2024-08-27T13:32:41.945000Z",
+          "documentURL" : "",
+          "startTimestamp" : 1724765561.939979,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "domain" : "com.apple.dt.IDE.BuildLogSection"
+        },
+        {
+          "documentURL" : "",
+          "duration" : 0.008535027503967285,
+          "signature" : "CopySwiftLibs \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products\/Debug-iphonesimulator\/BasicApp.app (in target 'BasicApp' from project 'BasicApp')",
+          "warnings" : [
+
+          ],
+          "errors" : [
+
+          ],
+          "startTimestamp" : 1724765561.9454021,
+          "architecture" : "",
+          "compilationDuration" : 0.008535027503967285,
+          "endTimestamp" : 1724765561.953937,
+          "startDate" : "2024-08-27T13:32:41.945000Z",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_55",
+          "endDate" : "2024-08-27T13:32:41.954000Z",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "schema" : "BasicApp",
+          "subSteps" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "errorCount" : 0,
+          "fetchedFromCache" : false,
+          "title" : "Copy Swift standard libraries into BasicApp.app",
+          "buildStatus" : "succeeded",
+          "machineName" : "COLTMV20KF9J",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "compilationEndTimestamp" : 1724765561.953937,
+          "detailStepType" : "copySwiftLibs",
+          "warningCount" : 0
+        },
+        {
+          "warnings" : [
+
+          ],
+          "machineName" : "COLTMV20KF9J",
+          "fetchedFromCache" : false,
+          "compilationDuration" : 0.019415974617004395,
+          "errors" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "startDate" : "2024-08-27T13:32:41.946000Z",
+          "title" : "Generate SSU asset files",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "duration" : 0.019415974617004395,
+          "schema" : "BasicApp",
+          "signature" : "AppIntentsSSUTraining (in target 'BasicApp' from project 'BasicApp')",
+          "subSteps" : [
+
+          ],
+          "compilationEndTimestamp" : 1724765561.9650168,
+          "architecture" : "",
+          "startTimestamp" : 1724765561.945601,
+          "type" : "detail",
+          "detailStepType" : "other",
+          "documentURL" : "",
+          "buildStatus" : "succeeded",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "endTimestamp" : 1724765561.9650168,
+          "endDate" : "2024-08-27T13:32:41.965000Z",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "warningCount" : 0,
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_56",
+          "errorCount" : 0
+        },
+        {
+          "type" : "detail",
+          "documentURL" : "",
+          "warnings" : [
+
+          ],
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1724765309.320774,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "compilationDuration" : 0.017978906631469727,
+          "machineName" : "COLTMV20KF9J",
+          "errors" : [
+
+          ],
+          "duration" : 0.017978906631469727,
+          "title" : "Sign BasicApp.app",
+          "compilationEndTimestamp" : 1724765309.320774,
+          "startDate" : "2024-08-27T13:28:29.303000Z",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_57",
+          "buildStatus" : "succeeded",
+          "architecture" : "",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "detailStepType" : "other",
+          "fetchedFromCache" : true,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "errorCount" : 0,
+          "endDate" : "2024-08-27T13:28:29.321000Z",
+          "schema" : "BasicApp",
+          "warningCount" : 0,
+          "signature" : "CodeSign \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products\/Debug-iphonesimulator\/BasicApp.app (in target 'BasicApp' from project 'BasicApp')",
+          "notes" : [
+
+          ],
+          "startTimestamp" : 1724765309.302795
+        },
+        {
+          "endDate" : "2024-08-27T13:28:29.324000Z",
+          "documentURL" : "",
+          "schema" : "BasicApp",
+          "architecture" : "",
+          "endTimestamp" : 1724765309.323746,
+          "duration" : 0.0029109716415405273,
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "buildStatus" : "succeeded",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "machineName" : "COLTMV20KF9J",
+          "errors" : [
+
+          ],
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_58",
+          "title" : "Register execution policy exception for BasicApp.app",
+          "compilationEndTimestamp" : 1724765309.323746,
+          "warningCount" : 0,
+          "startDate" : "2024-08-27T13:28:29.321000Z",
+          "detailStepType" : "other",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "type" : "detail",
+          "errorCount" : 0,
+          "fetchedFromCache" : true,
+          "compilationDuration" : 0.0029109716415405273,
+          "signature" : "RegisterExecutionPolicyException \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products\/Debug-iphonesimulator\/BasicApp.app (in target 'BasicApp' from project 'BasicApp')",
+          "startTimestamp" : 1724765309.320835,
+          "subSteps" : [
+
+          ]
+        },
+        {
+          "documentURL" : "",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_59",
+          "machineName" : "COLTMV20KF9J",
+          "detailStepType" : "validate",
+          "compilationDuration" : 0.0004429817199707031,
+          "startTimestamp" : 1724765309.323811,
+          "buildStatus" : "succeeded",
+          "endTimestamp" : 1724765309.324254,
+          "warnings" : [
+
+          ],
+          "type" : "detail",
+          "notes" : [
+
+          ],
+          "schema" : "BasicApp",
+          "compilationEndTimestamp" : 1724765309.324254,
+          "signature" : "Validate \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products\/Debug-iphonesimulator\/BasicApp.app (in target 'BasicApp' from project 'BasicApp')",
+          "endDate" : "2024-08-27T13:28:29.324000Z",
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "errors" : [
+
+          ],
+          "subSteps" : [
+
+          ],
+          "duration" : 0.0004429817199707031,
+          "architecture" : "",
+          "warningCount" : 0,
+          "startDate" : "2024-08-27T13:28:29.324000Z",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "title" : "Validate BasicApp.app",
+          "errorCount" : 0,
+          "fetchedFromCache" : true
+        },
+        {
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_18",
+          "machineName" : "COLTMV20KF9J",
+          "schema" : "BasicApp",
+          "buildStatus" : "succeeded",
+          "compilationDuration" : 0.002086043357849121,
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "endDate" : "2024-08-27T13:28:29.326000Z",
+          "compilationEndTimestamp" : 1724765309.326387,
+          "detailStepType" : "other",
+          "signature" : "Touch \/Users\/brenno.moura\/Library\/Developer\/Xcode\/DerivedData\/BasicApp-dpucnhkhjmhlytgaknttqntmawtf\/Build\/Products\/Debug-iphonesimulator\/BasicApp.app (in target 'BasicApp' from project 'BasicApp')",
+          "subSteps" : [
+
+          ],
+          "startTimestamp" : 1724765309.324301,
+          "endTimestamp" : 1724765309.326387,
+          "warningCount" : 0,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_60",
+          "startDate" : "2024-08-27T13:28:29.324000Z",
+          "architecture" : "",
+          "duration" : 0.002086043357849121,
+          "type" : "detail",
+          "documentURL" : "",
+          "title" : "Touch BasicApp.app",
+          "warnings" : [
+
+          ],
+          "errors" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "fetchedFromCache" : true
+        }
+      ],
+      "warnings" : [
+        {
+          "characterRangeStart" : 0,
+          "startingLineNumber" : 0,
+          "type" : "projectWarning",
+          "endingLineNumber" : 0,
+          "title" : "Run script build phase 'Swiftlint' will be run during every build because it does not specify any outputs. To address this warning, either add output dependencies to the script phase, or configure it to run in every build by unchecking \"Based on dependency analysis\" in the script phase.",
+          "detail" : "warning: Run script build phase 'Swiftlint' will be run during every build because it does not specify any outputs. To address this warning, either add output dependencies to the script phase, or configure it to run in every build by unchecking \"Based on dependency analysis\" in the script phase. (in target 'BasicApp' from project 'BasicApp')",
+          "characterRangeEnd" : 0,
+          "severity" : 1,
+          "documentURL" : "",
+          "endingColumnNumber" : 0,
+          "startingColumnNumber" : 0
+        }
+      ],
+      "startDate" : "2024-08-27T13:32:41.179000Z",
+      "machineName" : "COLTMV20KF9J",
+      "duration" : 0.7865680456161499,
+      "buildStatus" : "succeeded"
+    },
+    {
+      "errorCount" : 0,
+      "domain" : "com.apple.dt.IDE.BuildLogSchemeAction",
+      "buildStatus" : "succeeded",
+      "startTimestamp" : 1724765559.690974,
+      "documentURL" : "",
+      "startDate" : "2024-08-27T13:32:39.691000Z",
+      "endTimestamp" : 1724765562.013643,
+      "warningCount" : 0,
+      "compilationEndTimestamp" : 1724765559.690974,
+      "compilationDuration" : 0,
+      "duration" : 2.32266902923584,
+      "schema" : "BasicApp",
+      "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+      "machineName" : "COLTMV20KF9J",
+      "signature" : "eyJibHVlcHJpbnRQcm92aWRlcl9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYnJlbm5vLm1vdXJhXC9Eb3dubG9hZHNcL1hDTWV0cmljcy1tYWluXC9FeGFtcGxlc1wvQmFzaWNBcHBcL0Jhc2ljQXBwLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50UHJvdmlkZXIiOnt9fX0=",
+      "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_1",
+      "subSteps" : [
+        {
+          "schema" : "BasicApp",
+          "machineName" : "COLTMV20KF9J",
+          "warnings" : [
+
+          ],
+          "domain" : "com.apple.dt.IDE.LogSection",
+          "duration" : 0.04366099834442139,
+          "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+          "endDate" : "2024-08-27T13:32:42.014000Z",
+          "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_62",
+          "parentIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_61",
+          "fetchedFromCache" : false,
+          "endTimestamp" : 1724765562.013544,
+          "buildStatus" : "succeeded",
+          "title" : "Run custom shell script 'XCLogParser'",
+          "subSteps" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "errorCount" : 0,
+          "compilationEndTimestamp" : 1724765562.013544,
+          "signature" : "Run custom shell script 'XCLogParser'",
+          "type" : "detail",
+          "architecture" : "",
+          "startTimestamp" : 1724765561.969883,
+          "compilationDuration" : 0.04366099834442139,
+          "errors" : [
+
+          ],
+          "startDate" : "2024-08-27T13:32:41.970000Z",
+          "detailStepType" : "other",
+          "warningCount" : 0
+        }
+      ],
+      "fetchedFromCache" : false,
+      "errors" : [
+
+      ],
+      "warnings" : [
+
+      ],
+      "endDate" : "2024-08-27T13:32:42.014000Z",
+      "detailStepType" : "none",
+      "type" : "target",
+      "title" : "Run post-actions",
+      "notes" : [
+
+      ],
+      "architecture" : "",
+      "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_61"
+    }
+  ],
+  "fetchedFromCache" : false,
+  "machineName" : "COLTMV20KF9J",
+  "compilationDuration" : 0,
+  "buildStatus" : "succeeded",
+  "compilationEndTimestamp" : 1724765559.6887012,
+  "notes" : [
+
+  ],
+  "parentIdentifier" : "",
+  "documentURL" : "",
+  "schema" : "BasicApp",
+  "domain" : "Xcode.IDEActivityLogDomainType.BuildLog",
+  "detailStepType" : "none",
+  "buildIdentifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D",
+  "duration" : 2.3250060081481934,
+  "errorCount" : 0,
+  "signature" : "Build BasicApp",
+  "errors" : [
+
+  ],
+  "title" : "Build BasicApp",
+  "endDate" : "2024-08-27T13:32:42.014000Z",
+  "startDate" : "2024-08-27T13:32:39.689000Z",
+  "warnings" : [
+
+  ],
+  "identifier" : "COLTMV20KF9J_1874C8D7-EA42-4E92-ADD4-A4871880768D_1",
+  "warningCount" : 1,
+  "startTimestamp" : 1724765559.6887012
+}
